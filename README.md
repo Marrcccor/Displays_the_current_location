@@ -1,4 +1,4 @@
-#Displays_the_current_location
+## Displays_the_current_location
 This Android app displays the current location using the Fused Location Provider.
 
 ---
