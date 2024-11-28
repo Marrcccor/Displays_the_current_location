@@ -3,6 +3,14 @@ This Android app displays the current location using the Fused Location Provider
 
 ---
 
+## Functionality
+
+Here is how the app works:
+
+![App Functionality](Imatges/App.png)
+
+---
+
 ## Features
 
 - Shows the current location
